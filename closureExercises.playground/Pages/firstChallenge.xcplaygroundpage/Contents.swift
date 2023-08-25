@@ -5,8 +5,8 @@ import Foundation
 
 /// **Remember to comment line 9 and remove the `//` from line 8 before submitting your code**
 
-let numbers: [Int] = Array(CommandLine.arguments.dropFirst()).map { Int($0)! }
-//let numbers: [Int] = [6, 3, 2, 9, 21, 44]
+//var numbers: [Int] = Array(CommandLine.arguments.dropFirst()).map { Int($0)! }
+var numbers: [Int] = [6, 3, 2, 9, 21, 44]
 
 
 // Print the sorted array
