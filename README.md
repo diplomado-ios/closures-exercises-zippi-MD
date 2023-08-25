@@ -45,7 +45,7 @@ Output
 
 
 ## Fourth Challenge
-Find the largest number from an array of integers called `numbers` by using the `reduce` method. Print the resulting array.
+Find the largest number from an array of integers called `numbers` by using the `reduce` method. Print the resulting number.
 
 ### Example
 Input
