@@ -29,7 +29,7 @@ I love closures
 ```
 
 ## Third Challenge
-Use `filter` to create an array called `multiples` that contains all the multiples from an array of integers called `numbers`. Print the resulting array.
+Use `filter` to create an array called `multiples` that contains all the multiples of 5 from an array of integers called `numbers`. Print the resulting array.
 
 ### Example
 Input
